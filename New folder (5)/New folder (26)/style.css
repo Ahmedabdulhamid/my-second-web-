@@ -1,0 +1,198 @@
+.navbar {
+    background-image: linear-gradient(to right, #a517ba, #5f1782);
+}
+
+.navbar-nav a {
+    color: white;
+    padding: 10px;
+}
+
+.main-text {
+    background-image: linear-gradient(to right, #a517ba, #5f1782);
+    padding-top: 100px;
+}
+
+.main-text h1 {
+    color: white;
+}
+
+.paragraph {
+    color: white;
+}
+
+.text {
+    display: flex;
+}
+
+.paragraph-a {
+    color: white;
+    margin-left: -290px;
+}
+
+.main {
+    margin-top: 100px;
+}
+
+.col-md-12 {
+    position: relative;
+}
+
+.x {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.decoration {
+    width: 150px;
+    height: 5px;
+    background-color: #a517ba;
+}
+
+.text-decoration {
+    width: 40px;
+    height: 5px;
+    background-color: #a517ba;
+    margin-left: 50px;
+}
+
+.col-md-4 {
+    text-align: center;
+}
+
+p {
+    color: #555;
+}
+
+.btn {
+    background-color: #a517ba;
+    color: white;
+    border-radius: 20px;
+}
+
+.main-decoratio {
+    background-color: whitesmoke;
+}
+
+.main-decoration-x {
+    margin: -10px 0;
+    background-color: whitesmoke;
+}
+
+.x-decoratin {
+    margin-top: 100px;
+}
+
+#x {
+    position: relative;
+}
+
+#z {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.y-text {
+    padding-top: 50px;
+    justify-content: center;
+}
+
+.a {
+    display: flex;
+}
+
+.ar {
+    border-radius: 100px;
+}
+
+.f {
+    display: block;
+}
+
+.e {
+    position: relative;
+}
+
+.t {
+    position: absolute;
+    background-color: #a517ba;
+    height: 100%;
+    width: 5px;
+    right: 100%;
+    transform: translate(-100%, 0);
+}
+
+.s {
+    position: absolute;
+    background-color: #a517ba;
+    height: 100%;
+    width: 5px;
+    left: 100%;
+    transform: translate(-100%, 0);
+}
+
+.r-text {
+    background-color: whitesmoke;
+    margin-top: 100px;
+}
+
+.u-text {
+    background-color: whitesmoke;
+    padding-top: 50px;
+    height: 70vh;
+}
+
+.images {
+    text-align: center;
+}
+
+.images li {
+    display: inline;
+}
+
+.images a:hover {
+    bottom: 50%;
+    transform: translate(0, -50%);
+}
+
+.btn {
+    background-color: #5f1782;
+    padding: 5px 20px;
+    border-radius: 20px;
+}
+
+.r {
+    background-color: #a517ba;
+    margin: -42px 0;
+}
+
+.wave {
+    margin-top: -300px;
+}
+
+.c {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.imagrt {
+    margin-top: -40px;
+}
+
+.navbar-toggler i {
+    color: white;
+    font-size: 36px;
+}
+
+.y-text.row {
+    justify-content: center;
+}
+
+.navbar-nav {
+    text-align: right;
+}
